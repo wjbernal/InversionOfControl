@@ -8,7 +8,7 @@ namespace InversionOfControl
         {
             OracleDatabase theDb = new OracleDatabase ();
             SaveString sstr = new SaveString(theDb);
-            sstr.CommitIntoDb("My Name");
+            sstr.CommitIntoDb("new String");
         }
     }
 }
