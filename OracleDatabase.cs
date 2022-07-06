@@ -12,11 +12,5 @@ namespace InversionOfControl
         {
             Console.WriteLine(str + " Saved Into Oracle database...");
         }
-        
-        public string getAddress(int id)
-        {
-            string a = "";
-            return a;            
-        }
     }
 }

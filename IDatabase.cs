@@ -5,9 +5,5 @@ namespace InversionOfControl
     {
         void SaveIntoDb(string str);
 
-        string getAddress(int id);
-        
-
-
     }
 }

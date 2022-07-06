@@ -14,12 +14,5 @@ namespace InversionOfControl
         {
             Console.WriteLine(str + " Saved into Postgresql database");
         }
-
-        public string getAddress(int id)
-        {
-            string a = "";
-            return a; 
-        }
-
     }
 }
