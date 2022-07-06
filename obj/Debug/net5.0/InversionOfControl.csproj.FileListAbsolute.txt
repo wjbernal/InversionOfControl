@@ -1,0 +1,16 @@
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.csproj.AssemblyReference.cache
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.AssemblyInfoInputs.cache
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.AssemblyInfo.cs
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.csproj.CoreCompileInputs.cache
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.exe
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.deps.json
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.runtimeconfig.json
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.runtimeconfig.dev.json
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.dll
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\ref\InversionOfControl.dll
+C:\WilliamProgramTestCSharp\InversionOfControl\bin\Debug\net5.0\InversionOfControl.pdb
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.dll
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\ref\InversionOfControl.dll
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.pdb
+C:\WilliamProgramTestCSharp\InversionOfControl\obj\Debug\net5.0\InversionOfControl.genruntimeconfig.cache
